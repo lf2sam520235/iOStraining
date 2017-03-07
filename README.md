@@ -5,8 +5,7 @@ iOStraining Code
 ---
 
 
-> 分支介紹
-
+> 分支介紹 : Branch Guide
 
 ## playgroundForSwift
 * 一些練習Swift語法的程式碼
