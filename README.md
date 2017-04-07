@@ -9,10 +9,12 @@ iOStraining Code
 
 ## playgroundForSwift
 * 一些練習Swift語法的程式碼
+https://github.com/yasuoyuhao/iOStraining/tree/playgroundForSwift
 
 
 ## TicTacToe
 * 練習OOXX遊戲的專案
+https://github.com/yasuoyuhao/iOStraining/tree/TicTacToeOfGame
 
 
 ## iOSChatScreen
