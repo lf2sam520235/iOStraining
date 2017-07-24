@@ -8,22 +8,24 @@ iOStraining Code
 
 ---
 
-[BitcoinBlockChainMinimalist](https://github.com/yasuoyuhao/iOStraining#bitcoinblockchainminimalist)
+1. [BitcoinBlockChainMinimalist](https://github.com/yasuoyuhao/iOStraining#bitcoinblockchainminimalist) 
+區塊鍊價格，錢包查詢
 
 
-[iOSChatScreen](https://github.com/yasuoyuhao/iOStraining#ioschatscreen)
+2. [iOSChatScreen](https://github.com/yasuoyuhao/iOStraining#ioschatscreen) 用collection刻出聊天的畫面
 
 
-[magicalgridtozoom](https://github.com/yasuoyuhao/iOStraining#magicalgridtozoom)
+3. [magicalgridtozoom](https://github.com/yasuoyuhao/iOStraining#magicalgridtozoom) Animation to 3D ZoomIn and ZoomOut，滑動3D放大縮小的動畫
 
 
-[FacebookLiveStreamAnimation](https://github.com/yasuoyuhao/iOStraining#facebooklivestreamanimation)
+4. [FacebookLiveStreamAnimation](https://github.com/yasuoyuhao/iOStraining#facebooklivestreamanimation) FacebookLiveStreamAnimation，facebook直播的動畫效果
 
 
-[playgroundForSwift](https://github.com/yasuoyuhao/iOStraining#playgroundforswift)
+5. [playgroundForSwift](https://github.com/yasuoyuhao/iOStraining#playgroundforswift)  一些練習Swift語法的程式碼
 
 
-[TicTacToe](https://github.com/yasuoyuhao/iOStraining#tictactoe)
+
+6. [TicTacToe](https://github.com/yasuoyuhao/iOStraining#tictactoe) 練習OOXX遊戲的專案
 
 
 
