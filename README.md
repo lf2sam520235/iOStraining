@@ -30,6 +30,7 @@ iOStraining Code
 
 
 ## BitcoinBlockChainMinimalist
+Quickly query all types of block chain asset prices, quick query Bitcoin, ether square, Zcash wallet balance.
 - 區塊鍊價格，錢包查詢
 
 https://github.com/yasuoyuhao/bitcoinblockchainminimalist
@@ -47,7 +48,7 @@ https://github.com/yasuoyuhao/iOSChatScreen
 
 
 ## MagicalGridtoZoom
-Animation to 3D ZoomIn and ZoomOut
+Animation to 3D ZoomIn and ZoomOut.
 - Animation to 3D ZoomIn and ZoomOut，滑動3D放大縮小的動畫
 
 https://github.com/yasuoyuhao/MagicalGridtoZoom
