@@ -8,15 +8,57 @@ iOStraining Code
 
 ---
 
-[playgroundForSwift](https://github.com/yasuoyuhao/iOStraining#playgroundforswift)
+[BitcoinBlockChainMinimalist](https://github.com/yasuoyuhao/BitcoinBlockChainMinimalist)
 
-[TicTacToe](https://github.com/yasuoyuhao/iOStraining#tictactoe)
 
 [iOSChatScreen](https://github.com/yasuoyuhao/iOStraining#ioschatscreen)
 
+
 [magicalgridtozoom](https://github.com/yasuoyuhao/iOStraining#magicalgridtozoom)
 
+
 [FacebookLiveStreamAnimation](https://github.com/yasuoyuhao/iOStraining#facebooklivestreamanimation)
+
+
+[playgroundForSwift](https://github.com/yasuoyuhao/iOStraining#playgroundforswift)
+
+
+[TicTacToe](https://github.com/yasuoyuhao/iOStraining#tictactoe)
+
+
+
+## BitcoinBlockChainMinimalist
+- 區塊鍊價格，錢包查詢
+
+https://github.com/yasuoyuhao/iOStraining#playgroundforswift
+
+![預覽](https://github.com/yasuoyuhao/BitcoinBlockChainMinimalist/blob/master/BitcoinBlockChainMinimalist-GIF.gif?raw=true)
+
+
+## iOSChatScreen
+- 用collection刻出聊天的畫面
+
+https://github.com/yasuoyuhao/iOSChatScreen
+
+![image](https://github.com/yasuoyuhao/iOSChatScreen/blob/master/_Airplayer_2017-4-7-13-9-14_552x980_.gif?raw=true)
+
+
+
+## MagicalGridtoZoom
+Animation to 3D ZoomIn and ZoomOut
+- Animation to 3D ZoomIn and ZoomOut，滑動3D放大縮小的動畫
+
+![image](https://github.com/yasuoyuhao/MagicalGridtoZoom/blob/master/ZoomAnimate.gif?raw=true)
+
+
+
+## FacebookLiveStreamAnimation
+FacebookLiveStreamAnimation
+
+- FacebookLiveStreamAnimation，facebook直播的動畫效果
+
+![image](https://github.com/yasuoyuhao/FacebookLiveStreamAnimation/blob/master/FB_.gif)
+
 
 
 ## playgroundForSwift
@@ -31,29 +73,7 @@ https://github.com/yasuoyuhao/iOStraining/tree/TicTacToeOfGame
 
 
 
-## iOSChatScreen
-* 用collection刻出聊天的畫面
 
-https://github.com/yasuoyuhao/iOSChatScreen
-
-![image](https://github.com/yasuoyuhao/iOSChatScreen/blob/master/_Airplayer_2017-4-7-13-9-14_552x980_.gif?raw=true)
-
-
-
-# MagicalGridtoZoom
-Animation to 3D ZoomIn and ZoomOut
-- Animation to 3D ZoomIn and ZoomOut，滑動3D放大縮小的動畫
-
-![image](https://github.com/yasuoyuhao/MagicalGridtoZoom/blob/master/ZoomAnimate.gif?raw=true)
-
-
-
-# FacebookLiveStreamAnimation
-FacebookLiveStreamAnimation
-
-- FacebookLiveStreamAnimation，facebook直播的動畫效果
-
-![image](https://github.com/yasuoyuhao/FacebookLiveStreamAnimation/blob/master/FB_.gif)
 
 
 
