@@ -8,7 +8,7 @@ iOStraining Code
 
 ---
 
-[BitcoinBlockChainMinimalist](https://github.com/yasuoyuhao/BitcoinBlockChainMinimalist)
+[BitcoinBlockChainMinimalist](https://github.com/yasuoyuhao/iOStraining#bitcoinblockchainminimalist)
 
 
 [iOSChatScreen](https://github.com/yasuoyuhao/iOStraining#ioschatscreen)
