@@ -32,7 +32,7 @@ iOStraining Code
 ## BitcoinBlockChainMinimalist
 - 區塊鍊價格，錢包查詢
 
-https://github.com/yasuoyuhao/iOStraining#playgroundforswift
+https://github.com/yasuoyuhao/bitcoinblockchainminimalist
 
 ![預覽](https://github.com/yasuoyuhao/BitcoinBlockChainMinimalist/blob/master/BitcoinBlockChainMinimalist-GIF.gif?raw=true)
 
@@ -50,6 +50,8 @@ https://github.com/yasuoyuhao/iOSChatScreen
 Animation to 3D ZoomIn and ZoomOut
 - Animation to 3D ZoomIn and ZoomOut，滑動3D放大縮小的動畫
 
+https://github.com/yasuoyuhao/MagicalGridtoZoom
+
 ![image](https://github.com/yasuoyuhao/MagicalGridtoZoom/blob/master/ZoomAnimate.gif?raw=true)
 
 
@@ -58,6 +60,8 @@ Animation to 3D ZoomIn and ZoomOut
 FacebookLiveStreamAnimation
 
 - FacebookLiveStreamAnimation，facebook直播的動畫效果
+
+https://github.com/yasuoyuhao/FacebookLiveStreamAnimation
 
 ![image](https://github.com/yasuoyuhao/FacebookLiveStreamAnimation/blob/master/FB_.gif)
 
